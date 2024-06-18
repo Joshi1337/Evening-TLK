@@ -1,0 +1,8 @@
+{
+    "Lua.workspace.library": [
+        "D:\\SteamSSD\\steamapps\\common\\SimRail\\SimRail_Data\\StreamingAssets\\LuaModules"
+    ],
+    "Lua.diagnostics.disable": [
+        "param-type-mismatch"
+    ]
+}

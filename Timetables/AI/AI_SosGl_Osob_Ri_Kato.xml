@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeTableStorage xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TrainName>S1</TrainName>
+	<TrainNumber>18625</TrainNumber>
+	<LineNumber></LineNumber>
+	<From>Zawiercie</From>
+	<To>Katowice</To>
+	<WayPoints>
+		<WayPointFromXml>
+			<NameOfPoint>Zawiercie</NameOfPoint>
+			<DisplayName>Zawiercie</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Osobowy</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Sosnowiec Główny</NameOfPoint>
+			<DisplayName>Sosnowiec Główny</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Osobowy</TrainType>
+			<StationCategory />
+			<ArrivalTime>120</ArrivalTime>
+			<DepartureTime>180</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Katowice</NameOfPoint>
+			<DisplayName>Katowice</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Osobowy</TrainType>
+			<StationCategory />
+			<ArrivalTime>300</ArrivalTime>
+			<DepartureTime>600</DepartureTime>
+		</WayPointFromXml>
+	</WayPoints>
+	<StartSpeedLimit>140</StartSpeedLimit>
+	<StartGlobalSpeedLimit>140</StartGlobalSpeedLimit>
+	<StartRadioChannels>
+		<int>1</int>
+	</StartRadioChannels>
+</TimeTableStorage>

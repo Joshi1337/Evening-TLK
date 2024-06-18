@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeTableStorage xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TrainName>Osobowy</TrainName>
+	<TrainNumber>59871</TrainNumber>
+	<LineNumber>1</LineNumber>
+	<From>Dąbrowa Górnicza Ząbkowice</From>
+	<To>Krakow</To>
+	<WayPoints>
+		<WayPointFromXml>
+			<NameOfPoint>Dąbrowa Górnicza Ząbkowice</NameOfPoint>
+			<DisplayName>Dąbrowa Górnicza Ząbkowice</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Osobowy</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>120</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Krakow</NameOfPoint>
+			<DisplayName>Krakow</DisplayName>
+			<StopType>noStopover</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Osobowy</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+	</WayPoints>
+	<StartSpeedLimit>110</StartSpeedLimit>
+	<StartGlobalSpeedLimit>110</StartGlobalSpeedLimit>
+	<StartRadioChannels>
+		<int>1</int>
+	</StartRadioChannels>
+</TimeTableStorage>

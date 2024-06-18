@@ -1,0 +1,18 @@
+Katowice
+Sosnowiec Główny
+Będzin
+Dąbrowa Górnicza
+Dąbrowa Górnicza Ząbkowice
+Łazy
+Zawiercie
+Warszawa Zachodnia
+Warszawa Centralna
+Warszawa Wschodnia
+
+Sosnowiec Południowy
+Sosnowiec Kazimierz
+Dąbrowa Górnicza Wschodnia
+Kozłów
+
+
+https://wiki.simrail.eu/

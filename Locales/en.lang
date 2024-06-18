@@ -1,0 +1,11 @@
+Start=Rüste den Zug auf und bereite dich auf die Abfahrt vor!
+DW_Start=[DW]
+
+SKZ_Rang=[SKz] 161728 - Bitte einmal bis Tm2 vorziehen
+SKZ=[SKz]591827 - Geschwindigkeit schonmal etwas reduzieren, ich schieb kurz eine Lok an dir vorbei und dann gehts sofort weiter!
+
+CallTheStationToEnter=Call station dispatcher.
+EnterTheStationIgnoringStopSignal=Enter the station ignoring stop signal.
+
+NowExitVehicle=Now, exit the vehicle.
+EnterOtherTrainset=Enter to the other train.

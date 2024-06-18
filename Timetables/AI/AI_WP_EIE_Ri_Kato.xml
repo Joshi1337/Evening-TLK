@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeTableStorage xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TrainName>EIP</TrainName>
+	<TrainNumber>1666</TrainNumber>
+	<LineNumber></LineNumber>
+	<From>Warszawa Wschodnia</From>
+	<To>Wrocław</To>
+	<WayPoints>
+		<WayPointFromXml>
+			<NameOfPoint>Włoszczowa Północ</NameOfPoint>
+			<DisplayName>Włoszczowa Północ</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>5</ArrivalTime>
+			<DepartureTime>110</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Sosnowiec Główny</NameOfPoint>
+			<DisplayName>Sosnowiec Główny</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Katowice</NameOfPoint>
+			<DisplayName>Katowice</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Wrocław</NameOfPoint>
+			<DisplayName>Wrocław</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+	</WayPoints>
+	<StartSpeedLimit>200</StartSpeedLimit>
+	<StartGlobalSpeedLimit>200</StartGlobalSpeedLimit>
+	<StartRadioChannels>
+		<int>1</int>
+	</StartRadioChannels>
+</TimeTableStorage>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TimeTableStorage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TrainName>TOW</TrainName>
+  <TrainNumber>591827</TrainNumber>
+  <LineNumber>Nr. 1</LineNumber>
+  <From>Dąbrowa Górnicza Wschodnia</From>
+  <To>Aarburg-Oftrigen</To>
+  <WayPoints>
+	<WayPointFromXml>
+		<NameOfPoint>DG Wschodnia</NameOfPoint>
+		<DisplayName>Dąbrowa Górnicza Wschodnia</DisplayName> 38
+		<StopType>departure</StopType>
+		<Line>1</Line>
+		<Mileage>12.8</Mileage>
+		<ArrivalTime>0</ArrivalTime>
+		<DepartureTime>300</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Dąbrowa Górnicza Strzemieszyce</NameOfPoint>
+		<DisplayName>Dąbrowa Górnicza Strzemieszyce</DisplayName> 43 - 5min
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>69.3</Mileage>
+		<ArrivalTime>600</ArrivalTime>
+		<DepartureTime>600</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Sosnowiec Kazimierz</NameOfPoint> 47 - 9
+		<DisplayName>Sosnowiec Kazimierz</DisplayName>
+		<StopType>technicalStop</StopType>
+		<Line>1</Line>
+		<Mileage>73.4</Mileage>
+		<ArrivalTime>720</ArrivalTime>
+		<DepartureTime>780</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Sosnowiec Dańdówka</NameOfPoint>
+		<DisplayName>Sosnowiec Dańdówka</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>50</ArrivalTime>
+		<DepartureTime>50</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Sosnowiec Południowy</NameOfPoint>
+		<DisplayName>Sosnowiec Południowy</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>50</ArrivalTime>
+		<DepartureTime>50</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Sosnowiec Główny</NameOfPoint>
+		<DisplayName>Sosnowiec Główny</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>50</ArrivalTime>
+		<DepartureTime>50</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Będzin</NameOfPoint>
+		<DisplayName>Będzin</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>50</ArrivalTime>
+		<DepartureTime>50</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+  </WayPoints>
+  <StartSpeedLimit>100</StartSpeedLimit>
+  <StartGlobalSpeedLimit>100</StartGlobalSpeedLimit>
+  <StartRadioChannels>
+    <int>2</int>
+  </StartRadioChannels>
+</TimeTableStorage>

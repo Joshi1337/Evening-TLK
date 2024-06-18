@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TimeTableStorage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TrainName>TLK</TrainName>
+  <TrainNumber>14297</TrainNumber>
+  <LineNumber>Nr. 1</LineNumber>
+  <From>Warszawa Centralna</From>
+  <To>Katowice</To>
+  <WayPoints>
+	<WayPointFromXml>
+		<NameOfPoint>Włoszczowa Północ</NameOfPoint>
+		<DisplayName>Włoszczowa Północ</DisplayName>
+		<StopType>commercialStop</StopType>
+		<Line>1</Line>
+		<Mileage>12.8</Mileage>
+		<ArrivalTime>0</ArrivalTime>
+		<DepartureTime>300</DepartureTime>
+		<TrainType>TLK</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Knapówka</NameOfPoint>
+		<DisplayName>Knapówka</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>69.3</Mileage>
+		<ArrivalTime>600</ArrivalTime>
+		<DepartureTime>600</DepartureTime>
+		<TrainType>TLK</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Psary</NameOfPoint>
+		<DisplayName>Psary</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>73.4</Mileage>
+		<ArrivalTime>840</ArrivalTime>
+		<DepartureTime>840</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Góra Włodowska</NameOfPoint>20:03
+		<DisplayName>Góra Włodowska</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>1920</ArrivalTime>
+		<DepartureTime>1920</DepartureTime>
+		<TrainType>TLK</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Zawiercie</NameOfPoint>20:12
+		<DisplayName>Zawiercie</DisplayName>
+		<StopType>commercialStop</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>2520</ArrivalTime>
+		<DepartureTime>2760</DepartureTime>
+		<TrainType>TLK</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Łazy Ła</NameOfPoint>
+		<DisplayName>Łazy Ła</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>2940</ArrivalTime>
+		<DepartureTime>2940</DepartureTime>
+		<TrainType>TLK</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Łazy</NameOfPoint>
+		<DisplayName>Łazy</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>3000</ArrivalTime>
+		<DepartureTime>3000</DepartureTime>
+		<TrainType>TLK</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Łazy Łc</NameOfPoint>
+		<DisplayName>Łazy Łc</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>3240</ArrivalTime>
+		<DepartureTime>3240</DepartureTime>
+		<TrainType>TLK</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Dąbrowa Górnicza Ząbkowice</NameOfPoint>
+		<DisplayName>Dąbrowa Górnicza Ząbkowice</DisplayName>
+		<StopType>commercialStop</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>3660</ArrivalTime>
+		<DepartureTime>3900</DepartureTime>
+		<TrainType>TLK</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Dąbrowa Górnicza</NameOfPoint>
+		<DisplayName>Dąbrowa Górnicza</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>50</ArrivalTime>
+		<DepartureTime>50</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Będzin</NameOfPoint>
+		<DisplayName>Będzin</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>50</ArrivalTime>
+		<DepartureTime>50</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Sosnowiec Główny</NameOfPoint>
+		<DisplayName>Sosnowiec Główny</DisplayName>
+		<StopType>commercialStop</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>50</ArrivalTime>
+		<DepartureTime>50</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Katowice Zawodzie</NameOfPoint>
+		<DisplayName>Katowice Zawodzie</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>50</ArrivalTime>
+		<DepartureTime>50</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Katowice</NameOfPoint>
+		<DisplayName>Katowice</DisplayName>
+		<StopType>commercialStop</StopType>
+		<Line>1</Line>
+		<Mileage>295.4</Mileage>
+		<ArrivalTime>50</ArrivalTime>
+		<DepartureTime>50</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+  </WayPoints>
+  <StartSpeedLimit>60</StartSpeedLimit>
+  <StartGlobalSpeedLimit>120</StartGlobalSpeedLimit>
+  <StartRadioChannels>
+    <int>2</int>
+  </StartRadioChannels>
+</TimeTableStorage>
