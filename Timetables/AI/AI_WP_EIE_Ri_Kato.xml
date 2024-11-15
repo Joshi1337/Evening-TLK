@@ -2,7 +2,7 @@
 <TimeTableStorage xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<TrainName>EIP</TrainName>
-	<TrainNumber>1666</TrainNumber>
+	<TrainNumber>1466</TrainNumber>
 	<LineNumber></LineNumber>
 	<From>Warszawa Wschodnia</From>
 	<To>Wrocław</To>
@@ -15,8 +15,8 @@
 			<Mileage>0</Mileage>
 			<TrainType>Express</TrainType>
 			<StationCategory />
-			<ArrivalTime>5</ArrivalTime>
-			<DepartureTime>110</DepartureTime>
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>90</DepartureTime>
 		</WayPointFromXml>
 		<WayPointFromXml>
 			<NameOfPoint>Sosnowiec Główny</NameOfPoint>
@@ -32,6 +32,28 @@
 		<WayPointFromXml>
 			<NameOfPoint>Katowice</NameOfPoint>
 			<DisplayName>Katowice</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Zabrze</NameOfPoint>
+			<DisplayName>Zabrze</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Gliwice</NameOfPoint>
+			<DisplayName>Gliwice</DisplayName>
 			<StopType>commercialStop</StopType>
 			<Line>0</Line>
 			<Mileage>0</Mileage>

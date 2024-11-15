@@ -102,9 +102,9 @@
 		<StopType>noStopover</StopType>
 		<Line>1</Line>
 		<Mileage>295.4</Mileage>
-		<ArrivalTime>50</ArrivalTime>
-		<DepartureTime>50</DepartureTime>
-		<TrainType>TOW</TrainType>
+		<ArrivalTime>4140</ArrivalTime>
+		<DepartureTime>4140</DepartureTime>
+		<TrainType>TLK</TrainType>
 	</WayPointFromXml>
 	<WayPointFromXml>
 		<NameOfPoint>Będzin</NameOfPoint>
@@ -112,9 +112,9 @@
 		<StopType>noStopover</StopType>
 		<Line>1</Line>
 		<Mileage>295.4</Mileage>
-		<ArrivalTime>50</ArrivalTime>
-		<DepartureTime>50</DepartureTime>
-		<TrainType>TOW</TrainType>
+		<ArrivalTime>4320</ArrivalTime>
+		<DepartureTime>4320</DepartureTime>
+		<TrainType>TLK</TrainType>
 	</WayPointFromXml>
 	<WayPointFromXml>
 		<NameOfPoint>Sosnowiec Główny</NameOfPoint>
@@ -122,9 +122,9 @@
 		<StopType>commercialStop</StopType>
 		<Line>1</Line>
 		<Mileage>295.4</Mileage>
-		<ArrivalTime>50</ArrivalTime>
-		<DepartureTime>50</DepartureTime>
-		<TrainType>TOW</TrainType>
+		<ArrivalTime>4500</ArrivalTime>
+		<DepartureTime>4680</DepartureTime>
+		<TrainType>TLK</TrainType>
 	</WayPointFromXml>
 	<WayPointFromXml>
 		<NameOfPoint>Katowice Zawodzie</NameOfPoint>
@@ -132,9 +132,9 @@
 		<StopType>noStopover</StopType>
 		<Line>1</Line>
 		<Mileage>295.4</Mileage>
-		<ArrivalTime>50</ArrivalTime>
-		<DepartureTime>50</DepartureTime>
-		<TrainType>TOW</TrainType>
+		<ArrivalTime>4920</ArrivalTime>
+		<DepartureTime>4920</DepartureTime>
+		<TrainType>TLK</TrainType>
 	</WayPointFromXml>
 	<WayPointFromXml>
 		<NameOfPoint>Katowice</NameOfPoint>
@@ -142,14 +142,14 @@
 		<StopType>commercialStop</StopType>
 		<Line>1</Line>
 		<Mileage>295.4</Mileage>
-		<ArrivalTime>50</ArrivalTime>
-		<DepartureTime>50</DepartureTime>
-		<TrainType>TOW</TrainType>
+		<ArrivalTime>5160</ArrivalTime>
+		<DepartureTime>5160</DepartureTime>
+		<TrainType>TLK</TrainType>
 	</WayPointFromXml>
   </WayPoints>
   <StartSpeedLimit>60</StartSpeedLimit>
   <StartGlobalSpeedLimit>120</StartGlobalSpeedLimit>
   <StartRadioChannels>
-    <int>2</int>
+    <int>1</int>
   </StartRadioChannels>
 </TimeTableStorage>

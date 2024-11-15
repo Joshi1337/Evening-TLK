@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TimeTableStorage xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TrainName>LUZ</TrainName>
+  <TrainNumber>413812</TrainNumber>
+  <LineNumber>Nr. 1</LineNumber>
+  <From>Katowice</From>
+  <To>Łazy Łc</To>
+  <WayPoints>
+	<WayPointFromXml>
+		<NameOfPoint>Katowice</NameOfPoint>
+		<DisplayName>Katowice</DisplayName>
+		<StopType>technicalStop</StopType>
+		<Line>1</Line>
+		<Mileage>0</Mileage>
+		<ArrivalTime>0</ArrivalTime>
+		<DepartureTime>0</DepartureTime>
+		<TrainType>LUZ</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Katowice Zawodzie</NameOfPoint>
+		<DisplayName>Katowice Zawodzie</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>0</Mileage>
+		<ArrivalTime>0</ArrivalTime>
+		<DepartureTime>0</DepartureTime>
+		<TrainType>LUZ</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Sosnowiec Główny</NameOfPoint>
+		<DisplayName>Sosnowiec Główny</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>0</Mileage>
+		<ArrivalTime>0</ArrivalTime>
+		<DepartureTime>0</DepartureTime>
+		<TrainType>TOW</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Będzin</NameOfPoint>
+		<DisplayName>Będzin</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>0</Mileage>
+		<ArrivalTime>0</ArrivalTime>
+		<DepartureTime>0</DepartureTime>
+		<TrainType>LUZ</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Dąbrowa Górnicza</NameOfPoint>
+		<DisplayName>Dąbrowa Górnicza</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>0</Mileage>
+		<ArrivalTime>0</ArrivalTime>
+		<DepartureTime>0</DepartureTime>
+		<TrainType>LUZ</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Dąbrowa Górnicza Zawodzie</NameOfPoint>
+		<DisplayName>Dąbrowa Górnicza Zawodzie</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>0</Mileage>
+		<ArrivalTime>0</ArrivalTime>
+		<DepartureTime>0</DepartureTime>
+		<TrainType>LUZ</TrainType>
+	</WayPointFromXml>
+	<WayPointFromXml>
+		<NameOfPoint>Łazy Łc</NameOfPoint>
+		<DisplayName>Łazy Łc</DisplayName>
+		<StopType>noStopover</StopType>
+		<Line>1</Line>
+		<Mileage>0</Mileage>
+		<ArrivalTime>3240</ArrivalTime>
+		<DepartureTime>3240</DepartureTime>
+		<TrainType>LUZ</TrainType>
+	</WayPointFromXml>
+  </WayPoints>
+  <StartSpeedLimit>40</StartSpeedLimit>
+  <StartGlobalSpeedLimit>120</StartGlobalSpeedLimit>
+  <StartRadioChannels>
+    <int>2</int>
+  </StartRadioChannels>
+</TimeTableStorage>

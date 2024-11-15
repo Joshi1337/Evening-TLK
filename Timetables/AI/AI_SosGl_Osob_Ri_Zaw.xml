@@ -41,6 +41,28 @@
 			<DepartureTime>480</DepartureTime>
 		</WayPointFromXml>
 		<WayPointFromXml>
+			<NameOfPoint>Będzin Miasto</NameOfPoint>
+			<DisplayName>Będzin Miasto</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Osobowy</TrainType>
+			<StationCategory />
+			<ArrivalTime>420</ArrivalTime>
+			<DepartureTime>480</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Będzin Ksawera</NameOfPoint>
+			<DisplayName>Będzin Ksawera</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Osobowy</TrainType>
+			<StationCategory />
+			<ArrivalTime>420</ArrivalTime>
+			<DepartureTime>480</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
 			<NameOfPoint>Dąbrowa Górnicza</NameOfPoint>
 			<DisplayName>Dąbrowa Górnicza</DisplayName>
 			<StopType>commercialStop</StopType>
@@ -57,7 +79,7 @@
 			<StopType>commercialStop</StopType>
 			<Line>0</Line>
 			<Mileage>0</Mileage>
-			<TrainType>IR</TrainType>
+			<TrainType>Osobowy</TrainType>
 			<StationCategory />
 			<ArrivalTime>0</ArrivalTime>
 			<DepartureTime>0</DepartureTime>
@@ -68,7 +90,7 @@
 			<StopType>commercialStop</StopType>
 			<Line>0</Line>
 			<Mileage>0</Mileage>
-			<TrainType>IR</TrainType>
+			<TrainType>Osobowy</TrainType>
 			<StationCategory />
 			<ArrivalTime>0</ArrivalTime>
 			<DepartureTime>0</DepartureTime>

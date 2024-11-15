@@ -16,12 +16,12 @@
 			<TrainType>Osobowy</TrainType>
 			<StationCategory />
 			<ArrivalTime>0</ArrivalTime>
-			<DepartureTime>120</DepartureTime>
+			<DepartureTime>3720</DepartureTime>
 		</WayPointFromXml>
 		<WayPointFromXml>
 			<NameOfPoint>Krakow</NameOfPoint>
 			<DisplayName>Krakow</DisplayName>
-			<StopType>noStopover</StopType>
+			<StopType>commercialStop</StopType>
 			<Line>0</Line>
 			<Mileage>0</Mileage>
 			<TrainType>Osobowy</TrainType>

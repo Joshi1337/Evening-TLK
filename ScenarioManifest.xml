@@ -14,7 +14,7 @@
   <SeasonOfTheYear>Spring</SeasonOfTheYear>
   <HeaderText>HeaderText</HeaderText>
   <SubHeaderText>SubHeaderText</SubHeaderText>
-  <MapFile>M1.png</MapFile>
+  <MapFile>Map.png</MapFile>
   <MainThumbnailPath>{Vehicle_Thumbnails}/E186-134.png</MainThumbnailPath>
   <MiniThumbnailPath1>minithumbnails/minithumbnail1.png</MiniThumbnailPath1>
   <MiniThumbnailPath2>minithumbnails/minithumbnail2.png</MiniThumbnailPath2>
@@ -25,52 +25,52 @@
   <CustomTranslations>
     <CustomTranslation Key="SceneryNameText">
       <Translations>
-        <CustomTranslationEntry LanguageTag="en">[E186][TLK] Włoszczowa Północ -> Katowice </CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="fr">Scenery name text in French</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="de">Scenery name text in German</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="pl">Scenery name text in Polish</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="it">Scenery name text in Italian</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="ru">Scenery name text in Russian</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="es">Scenery name text in Spanish</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="cs">Scenery name text in Czech</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="hu">Scenery name text in Hungarian</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="zh-TW">Scenery name text in Traditional Chinese</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="zh-CN">Scenery name text in Simplified Chinese</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="en">[E186][TLK] Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="fr">[E186][TLK] Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="de">[E186][TLK] Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="pl">[E186][TLK] Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="it">[E186][TLK] Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="ru">[E186][TLK] Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="es">[E186][TLK] Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="cs">[E186][TLK] Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="hu">[E186][TLK] Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="zh-TW">[E186][TLK] Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="zh-CN">[E186][TLK] Włoszczowa Północ -> Katowice</CustomTranslationEntry>
       </Translations>
     </CustomTranslation>
         <CustomTranslation Key="HeaderText">
       <Translations>
-        <CustomTranslationEntry LanguageTag="en">Funfact: Bravura kann nicht fahren</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="fr">Header text in French</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="de">Header  text in German</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="pl">Header text in Polish</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="it">Header text in Italian</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="ru">Header text in Russian</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="es">Header text in Spanish</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="cs">Header text in Czech</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="hu">Header text in Hungarian</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="zh-TW">Header text in Traditional Chinese</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="zh-CN">Header text in Simplified Chinese</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="en">Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="fr">Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="de">Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="pl">Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="it">Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="ru">Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="es">Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="cs">Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="hu">Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="zh-TW">Włoszczowa Północ -> Katowice</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="zh-CN">Włoszczowa Północ -> Katowice</CustomTranslationEntry>
       </Translations>
     </CustomTranslation>
         <CustomTranslation Key="SubHeaderText">
       <Translations>
-        <CustomTranslationEntry LanguageTag="en">und das ist wahr!</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="fr">Sub header text in French</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="de">Sub header text in German</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="pl">Sub header text in Polish</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="it">Sub header text in Italian</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="ru">Sub header text in Russian</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="es">Sub header text in Spanish</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="cs">Sub header text in Czech</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="hu">Sub header text in Hungarian</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="zh-TW">Sub header text in Traditional Chinese</CustomTranslationEntry>
-        <CustomTranslationEntry LanguageTag="zh-CN">Sub header text in Simplified Chinese</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="en">TLK 14297, E186, 404t 214m</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="fr">TLK 14297, E186, 404t 214m</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="de">TLK 14297, E186, 404t 214m</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="pl">TLK 14297, E186, 404t 214m</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="it">TLK 14297, E186, 404t 214m</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="ru">TLK 14297, E186, 404t 214m</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="es">TLK 14297, E186, 404t 214m</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="cs">TLK 14297, E186, 404t 214m</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="hu">TLK 14297, E186, 404t 214m</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="zh-TW">TLK 14297, E186, 404t 214m</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="zh-CN">TLK 14297, E186, 404t 214m</CustomTranslationEntry>
       </Translations>
     </CustomTranslation>
         <CustomTranslation Key="ScenarioDescription">
       <Translations>
-        <CustomTranslationEntry LanguageTag="en">Kurwa bajojajo</CustomTranslationEntry>
+        <CustomTranslationEntry LanguageTag="en">Work in progress</CustomTranslationEntry>
         <CustomTranslationEntry LanguageTag="fr">Scenario description text in French</CustomTranslationEntry>
         <CustomTranslationEntry LanguageTag="de">Scenario description text in German</CustomTranslationEntry>
         <CustomTranslationEntry LanguageTag="pl">Scenario description text in Polish</CustomTranslationEntry>

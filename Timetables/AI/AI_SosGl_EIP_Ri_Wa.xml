@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeTableStorage xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TrainName>EIP</TrainName>
+	<TrainNumber>4104</TrainNumber>
+	<LineNumber></LineNumber>
+	<From>Wrocław</From>
+	<To>Warszawa Wschodnia</To>
+	<WayPoints>
+		<WayPointFromXml>
+			<NameOfPoint>Wrocław</NameOfPoint>
+			<DisplayName>Wrocław</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>90</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Gliwice</NameOfPoint>
+			<DisplayName>Gliwice</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Zabrze</NameOfPoint>
+			<DisplayName>Zabrze</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Katowice</NameOfPoint>
+			<DisplayName>Katowice</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Sosnowiec Główny</NameOfPoint>
+			<DisplayName>Sosnowiec Główny</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>4560</ArrivalTime>
+			<DepartureTime>4900</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Zawiercie</NameOfPoint>
+			<DisplayName>Zawiercie</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Włoszczowa Północ</NameOfPoint>
+			<DisplayName>Włoszczowa Północ</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Warszawa Zachodnia</NameOfPoint>
+			<DisplayName>Warszawa Zachodnia</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Warszawa Zachodnia</NameOfPoint>
+			<DisplayName>Warszawa Zachodnia</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Warszawa Centralna</NameOfPoint>
+			<DisplayName>Warszawa Centralna</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+		<WayPointFromXml>
+			<NameOfPoint>Warszawa Wschodnia</NameOfPoint>
+			<DisplayName>Warszawa Wschodnia</DisplayName>
+			<StopType>commercialStop</StopType>
+			<Line>0</Line>
+			<Mileage>0</Mileage>
+			<TrainType>Express</TrainType>
+			<StationCategory />
+			<ArrivalTime>0</ArrivalTime>
+			<DepartureTime>0</DepartureTime>
+		</WayPointFromXml>
+	</WayPoints>
+	<StartSpeedLimit>200</StartSpeedLimit>
+	<StartGlobalSpeedLimit>200</StartGlobalSpeedLimit>
+	<StartRadioChannels>
+		<int>1</int>
+	</StartRadioChannels>
+</TimeTableStorage>
